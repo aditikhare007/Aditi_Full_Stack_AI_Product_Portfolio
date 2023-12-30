@@ -11,9 +11,9 @@
 
 ** Global Top AI Community Member @Landing.AI @MLOPS Community, @Pandas AI, @Full Stack Deep Learning, @HumaneAI @H2o.ai Generative AI, @Modular & @Cohere AI @hugging Face Research Papers Group @Papers with Code @DAIR.AI ** ** Completed 90+ Online Technical Paid Courses from Udemy & Coursera as I believe in Continuous Learning and Growth Mindset **
 
-## ** Aditi Full Stack Website for AI Products Portfolio ** ##
+## ** Aditi_Full_Stack_AI_Product_Portfolio ** ##
 
-<a href="https://github.com/aditikhare007/Aditi-AI-Research-Specialist-Portfolio" class="button icon search"> ** Aditi AI Research Specialist Portfolio** </a> 
+<a href="https://github.com/aditikhare007/Aditi_Full_Stack_AI_Product_Portfolio" class="button icon search"> ** Aditi_Full_Stack_AI_Product_Portfolio ** </a> 
 
 ## Thank you AI community for visiting my repository - Stay tuned for awesome AI Research Learning Resources ##
 If you find the repository useful please give it a star - Thank you for visting my repository - Happy Learning !!
