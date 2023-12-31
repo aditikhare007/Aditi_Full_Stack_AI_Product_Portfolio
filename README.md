@@ -15,6 +15,16 @@
 
 <a href="https://github.com/aditikhare007/Aditi_Full_Stack_AI_Product_Portfolio" class="button icon search"> ** Aditi_Full_Stack_AI_Product_Portfolio ** </a> 
 
+## Next JS ##
+1. Next.js React Framework Course – Build and Deploy a Full Stack App From scratch -
+
+https://www.youtube.com/watch?v=KjY94sAKLlw
+
+## Flutter ## 
+2. Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial -
+
+https://www.youtube.com/watch?v=VPvVD8t02U8
+
 ## Thank you AI community for visiting my repository - Stay tuned for awesome AI Research Learning Resources ##
 If you find the repository useful please give it a star - Thank you for visting my repository - Happy Learning !!
  
